@@ -1,6 +1,6 @@
 import os
 
-filename = 'tel.txt'
+filename = 'c:/Users/obikb/OneDrive/Рабочий стол/домашка питон/hw_8/tel.txt'
 
 def load_data():
     if os.path.isfile(filename):
